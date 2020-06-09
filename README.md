@@ -1,6 +1,5 @@
 # literate-sniffle
 Demo 1 updated in git hub ui directly....
 
-
-
-CONFLICT IN UI SCREEN
+kjbjbjbjkbjhbbkjb
+CONFLICTED IN COMMAND LINE UI
